@@ -1,0 +1,2 @@
+rootProject.name = "Offline Watcher"
+include ':app'
